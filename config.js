@@ -41,28 +41,28 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/KRXQFJXHYZDNL1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf' //group whatsapp
+global.sig = 'https://instagram.com/xxsmile_world'
+global.tautanwa = '-'
+global.sgh = 'https://github.com/SAKUTA123' //github
+global.sgc = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA' //group whatsapp
 global.sdc = '-' //discord
-global.linkyt = 'https://youtube.com/@zykobotz'
-global.syt = 'https://youtube.com/@zykobotz'
+global.linkyt = 'https://youtube.com/@leonnob284'
+global.syt = 'https://youtube.com/@leonnob284'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/HT6660rF8Jr9AqhfrQFJgf'
+global.snh = 'https://chat.whatsapp.com/IUPtqrnxzmA1KQZqFusCqA'
 global.media = 'https://telegra.ph/file/2e8d2ef0926e848626a43.jpg'
-global.wame = 'https://wa.me/message/KRXQFJXHYZDNL1'
+global.wame = '-'
 //⫹⫺ ╳╶┈ ⎝ NOOWNER,NOBOT,NAMAOWNER,NAMABOT  ⎞ ┈╾╴╳ ⫹⫺
 global.owner = [
-['6282124690625', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
-['13345280640', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
+['6287760550924', '𝑍𝑌𝐾𝑂-𝑀𝐷', true],
+['6287760550924', '𝑍𝑌𝐾𝑂-𝑀𝐷', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '18504178231' //pasang no bot lo 
-global.nomorown = '6282124690625' //pasang no own lo
-global.nomorown1 = '6282124690625'
-global.nomorown2 = '6282124690625'
+global.nomorbot = '6289684030744' //pasang no bot lo 
+global.nomorown = '6287760550924' //pasang no own lo
+global.nomorown1 = '6287760550924'
+global.nomorown2 = '6287760550924'
 global.nomorwa = '0'
 global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
 global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
@@ -114,7 +114,7 @@ global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi
 global.povo = '08XXXXXXXXXX' 
 global.pgopay = '08XXXXXXXXXX'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
+global.ppulsa = '6287760550924'
 global.ppulsa2 = '08XXXXXXXXXX'
 global.psaweria = 'https://saweria.co/hyuura'
 global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
